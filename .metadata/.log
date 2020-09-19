@@ -766,3 +766,54 @@ java.lang.Exception
 
 !ENTRY org.eclipse.ui 4 4 2020-09-19 20:28:03.017
 !MESSAGE プラグイン 'org.eclipse.egit.ui' は無効なメニュー拡張をコントリビュートしました (パス: 'org.eclipse.search.menu' が無効です): org.eclipse.egit.ui.actions.OpenCommitSearchPage
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:04.366
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:04.367
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2ef89e43[org.springframework.tooling.boot.ls:1.22.0.202009151440(id=668)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:04.370
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:04.397
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.002
+!MESSAGE Boot LS startup time from start to initialized: 2624ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.048
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UDDMnNBdisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.050
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.051
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.053
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.055
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.056
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.056
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.057
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UDDMnNBd => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.060
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.061
+!MESSAGE buffering callback sts4.classpath.UDDMnNBd demo false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.062
+!MESSAGE executing callback sts4.classpath.UDDMnNBd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-09-19 20:47:07.101
+!MESSAGE executing callback sts4.classpath.UDDMnNBd SUCCESS [終了しました]
